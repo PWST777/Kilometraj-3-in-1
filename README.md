@@ -10,3 +10,5 @@ PROIECTUL ÎNTREG POATE FI GĂSIT AICI: https://drive.google.com/file/d/1Ljq1QJs
 (Proiect Unity 2022.3.62f) 
 
 Documentație: "Documentație.pdf" 
+
+## Descriere
