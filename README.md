@@ -31,11 +31,17 @@ Sistemul OBD-II a fost realizat în Java folosind Android Studio, iar codul rezu
 Elementele grafice și imaginile utilizate în aplicație au fost create în Adobe Photoshop, program ales pentru posibilitățile avansate de editare și creare a efectelor vizuale.
 ## Technologiile aplicației
 Au fost alese sistemele GPS, BLE și OBD-II deoarece reprezintă cele mai populare și eficiente metode pentru monitorizarea vitezei și a datelor de deplasare:
+
 ⦁	GPS - Total universal, poate fi folosit absolut oriunde și nu îți trebuie nimic altceva decât telefonul tău;
+
 ⦁	BLE - Cel mai bun pentru biciclete, funcționează pe orice fel de bicicletă normală, electrică sau cu motor;
+
 ⦁	OBD-II - Cel mai bun pentru mașini, orice mașină produsă din anul 1994 sau mai recentă are o mufă OBD-II, iar acest mod poate obține și alte valori, cum ar fi turația motorului, temperatura, etc.
+
 ⦁	Accelerometru - Total universal, folosit la fel ca sistemul de GPS, nu necesită nimic altceva decât telefonul tău;
 ## Cerințe sistem
 Dispozitiv cu Android 24+ cu GPS integrat
+
 ⦁	Pentru modul BLE: Kilometraj de bicicletă Bluetooth Low Energy
+
 ⦁	Pentru modul OBD-II: Cititor ELM327 Bluetooth pentru OBD-II
