@@ -23,6 +23,8 @@ Kilometraj 3-în-1 este o aplicație android ce poate fi folosită ca post de ki
 Funcția principală a acestei aplicație este abilitatea de a crea design-uri personalizate ce arată ca kilometraje de mașină, motocicletă sau kilometraje simple cum ar fi cele de bicicletă sau trotinetă electrică.
 
 Aplicația conține un editor dedicat de a crea sau edita design-uri de kilometraj pe placul tău, având elemente de kilometraj analogic, digital sau diverse alte elemente. Un design poate să conțină mai multe elemente pentru a crea intefața dorită, sau poate fi folosit unul din cele 7 template-uri pentru a crea automat un design.
+
+De ce să algei această aplicație? Această aplicație îți permite crearea unui design the kilometraj fără grija de a monta sau intstala kiometrajul. Această aplicație poate funcționa cu ușurință pentru orice șcenariu cum ar fi un kilometraj de mașină, de bicicletă sau pur și simplu pentru alergat.
 ## Technologiile de dezvoltare
 Aplicația a fost realizată în engine-ul Unity folosind limbajul C#. Unity a fost ales datorită flexibilității sale în dezvoltarea interfețelor și a posibilității de integrare rapidă a sistemelor externe.
 
@@ -31,6 +33,8 @@ Sistemul GPS a fost implementat utilizând funcțiile „Input.location” oferi
 Sistemul OBD-II a fost realizat în Java folosind Android Studio, iar codul rezultat a fost integrat în proiectul Unity. Alegerea Android Studio a fost făcută datorită suportului extins pentru dezvoltarea aplicațiilor Android și compatibilității bune cu Java.
 
 Elementele grafice și imaginile utilizate în aplicație au fost create în Adobe Photoshop, program ales pentru posibilitățile avansate de editare și creare a efectelor vizuale.
+
+O altă librărie folosită pentru interfață a fost: "Unity UI Extensions". Această librărie a fost folosită pentru elementul linie folosit în apicașie pentru interfață.
 ## Technologiile aplicației
 Au fost alese sistemele GPS, BLE și OBD-II deoarece reprezintă cele mai populare și eficiente metode pentru monitorizarea vitezei și a datelor de deplasare:
 
